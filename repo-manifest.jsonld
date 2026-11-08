@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/vllm-project/compressed-tensors/commit/11489fea6e835606bbeeff8b72d43364404c4f41",
       "git:hexsha": "11489fea6e835606bbeeff8b72d43364404c4f41",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/vllm-project/compressed-tensors/commit/d7ce8ec01b0747f1f36f407087690119731dfac5",
