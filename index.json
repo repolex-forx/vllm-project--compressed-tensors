@@ -1,0 +1,11 @@
+{
+  "org": "vllm-project",
+  "repo": "compressed-tensors",
+  "versions": [
+    {
+      "commit": "11489fea6e835606bbeeff8b72d43364404c4f41",
+      "tag": "",
+      "parsed_at": "2026-11-08T06:23:27.833712+00:00"
+    }
+  ]
+}
